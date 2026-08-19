@@ -141,15 +141,14 @@ caesar_cipher/
 ├── static/
 │   └── style.css
 │
-└── screenshots/
-    └── caesar-cipher-output.png
+└── output.png
 ```
 
 ---
 
 ## 🖥️ Project Output
 
-The following screenshot shows the complete working output of the Caesar Cipher Web Application.
+The following screenshot shows the complete working output of the Caesar Cipher .
 
 ![Caesar Cipher  Output](output.png)
 
@@ -284,11 +283,3 @@ This project is intended primarily for **educational and demonstration purposes*
 ## 👩‍💻 Author
 
 **Srilatha Pappu**
-
-B.Tech – Computer Science and Engineering (AI & ML)
-
----
-
-## 📄 License
-
-This project is developed for **educational, learning, and internship purposes**.
