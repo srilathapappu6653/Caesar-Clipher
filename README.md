@@ -151,7 +151,7 @@ caesar_cipher/
 
 The following screenshot shows the complete working output of the Caesar Cipher Web Application.
 
-![Caesar Cipher Web Application Output](screenshots/caesar-cipher-output.png)
+![Caesar Cipher  Output](caesar-cipher-output.png)
 
 ---
 
